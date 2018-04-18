@@ -1,4 +1,4 @@
-# VOXEL CARDS
+🎉 # VOXEL CARDS 🎉
 Free design for your poker planning cards with Fibonacci numbers.
 Made by Voxel Foundation.
 
